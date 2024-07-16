@@ -1,0 +1,27 @@
+{
+  "name": "handy-utils",
+  "version": "1.0.0",
+  "description": "A versatile toolkit for various operations including string manipulations, array operations, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "string",
+    "operations",
+    "case-conversions",
+    "camel-case",
+    "pascal-case",
+    "uppercase",
+    "lowercase",
+    "trim",
+    "utilities",
+    "toolkit",
+    "helpers",
+    "multi-purpose",
+    "versatile",
+    "javascript"
+  ],
+  "author": "Mohit Pandey (pandeymohit215@gmail.com)",
+  "license": "ISC"
+}
