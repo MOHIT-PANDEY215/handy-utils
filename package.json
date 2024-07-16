@@ -23,5 +23,13 @@
     "javascript"
   ],
   "author": "Mohit Pandey (pandeymohit215@gmail.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOHIT-PANDEY215/handy-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MOHIT-PANDEY215/handy-utils/issues"
+  },
+  "homepage": "https://github.com/MOHIT-PANDEY215/handy-utils#readme"
 }
