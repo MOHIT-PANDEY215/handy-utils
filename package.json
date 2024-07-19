@@ -1,5 +1,5 @@
 {
-  "name": "handy-utils",
+  "name": "@pandeymohit215/handy-utils",
   "version": "1.0.0",
   "description": "A versatile toolkit for various operations including string manipulations, array operations, and more.",
   "main": "index.js",
